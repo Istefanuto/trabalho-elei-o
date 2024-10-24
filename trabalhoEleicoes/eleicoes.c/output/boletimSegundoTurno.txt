@@ -1,0 +1,15 @@
+
+------------BOLETIM SEGUNDO TURNO------------
+Candidato 1: bracin, Nº: 32, Votos recebidos: 8
+
+-----------------------------------------------
+Candidato 2: ISA, Nº: 11, Votos recebidos: 10
+
+-----------------------------------------------
+Total de votos válidos: 8 ------------------Porventagem: 80.000000
+Total de votos brancos: 1 ------------------Porcentagem: 10.000000
+Total de votos nulos: 1   ------------------Porcentagem: 10.000000
+Porcentagem de votos válidos da Chapa 1: 100.00%
+Porcentagem de votos válidos da Chapa 2: 125.00%
+
+O vencedor do segundo turno é ISA com 10 votos!

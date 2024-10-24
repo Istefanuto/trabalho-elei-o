@@ -1,0 +1,17 @@
+
+------------BOLETIM PRIMEIRO TURNO------------
+Candidato: gordo, Nº: 43 
+ Votos recebidos: 0
+
+----------------------------------------------
+Candidato: bracin, Nº: 32 
+ Votos recebidos: 5
+
+----------------------------------------------
+Candidato: ISA, Nº: 11 
+ Votos recebidos: 5
+
+----------------------------------------------
+Total de votos válidos: 10  ----------------Porcentagem: 100.00%
+Total de votos brancos: 0  ----------------Porcentagem: 0.00%
+Total de votos nulos: 0    ----------------Porcentagem: 0.00%
